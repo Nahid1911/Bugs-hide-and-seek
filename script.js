@@ -52,7 +52,7 @@ const workHistory = [
 const workContainer = document.getElementById('WorkContainerID');
 const sectionDiv = document.createElement('div');
 sectionDiv.id = 'work-history';
-sectionDiv.innerHTML = `
+sectionDiv.innerHTMLS = `
   <div class="work-history">
     <div id="firstProCard" class="project">
       <div class="project-preview">
